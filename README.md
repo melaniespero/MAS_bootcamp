@@ -1,2 +1,3 @@
-# MAS_bootcamp
-Repo for bootcamp
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
